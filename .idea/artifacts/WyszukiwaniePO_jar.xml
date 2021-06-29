@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WyszukiwaniePO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WyszukiwaniePO_jar</output-path>
+    <root id="archive" name="WyszukiwaniePO.jar">
+      <element id="module-output" name="WyszukiwaniePO" />
+    </root>
+  </artifact>
+</component>
